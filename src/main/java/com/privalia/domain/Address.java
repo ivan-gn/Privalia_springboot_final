@@ -1,4 +1,4 @@
-package com.privalia.entity;
+package com.privalia.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.privalia.entity.Student;
+import com.privalia.domain.Student;
 import com.privalia.services.StudentService;
 
 import io.swagger.annotations.Api;

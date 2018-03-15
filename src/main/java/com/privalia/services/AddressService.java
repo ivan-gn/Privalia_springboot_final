@@ -1,6 +1,6 @@
 package com.privalia.services;
 
-import com.privalia.entity.Address;
+import com.privalia.domain.Address;
 
 public interface AddressService {
 

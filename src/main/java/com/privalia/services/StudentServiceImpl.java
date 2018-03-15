@@ -5,7 +5,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.privalia.entity.Student;
+import com.privalia.domain.Student;
 import com.privalia.repository.StudentRepository;
 
 @Service

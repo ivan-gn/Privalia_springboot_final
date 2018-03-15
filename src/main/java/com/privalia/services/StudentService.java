@@ -1,6 +1,6 @@
 package com.privalia.services;
 
-import com.privalia.entity.Student;
+import com.privalia.domain.Student;
 
 public interface StudentService {
 

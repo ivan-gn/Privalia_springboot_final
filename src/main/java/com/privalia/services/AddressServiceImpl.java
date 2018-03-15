@@ -5,7 +5,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.privalia.entity.Address;
+import com.privalia.domain.Address;
 import com.privalia.repository.AddressRepository;
 
 @Service

@@ -18,7 +18,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.data.repository.config.RepositoryConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import com.privalia.entity.Address;
+import com.privalia.domain.Address;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringBootTest(classes = { RepositoryConfiguration.class})
